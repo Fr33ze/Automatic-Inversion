@@ -1,0 +1,27 @@
+c:\users\lukas\documents\visual studio 2015\Projects\AutomaticInversionBot\AutomaticInversionBot\bin\Debug\AutomaticInversionBot.exe.config
+c:\users\lukas\documents\visual studio 2015\Projects\AutomaticInversionBot\AutomaticInversionBot\bin\Debug\AutomaticInversionBot.exe
+c:\users\lukas\documents\visual studio 2015\Projects\AutomaticInversionBot\AutomaticInversionBot\bin\Debug\AutomaticInversionBot.pdb
+c:\users\lukas\documents\visual studio 2015\Projects\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.csprojResolveAssemblyReference.cache
+c:\users\lukas\documents\visual studio 2015\Projects\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.Form1.resources
+c:\users\lukas\documents\visual studio 2015\Projects\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.Properties.Resources.resources
+c:\users\lukas\documents\visual studio 2015\Projects\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.csproj.GenerateResource.Cache
+c:\users\lukas\documents\visual studio 2015\Projects\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.exe
+c:\users\lukas\documents\visual studio 2015\Projects\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.pdb
+c:\users\lukas\documents\visual studio 2015\Projects\AutomaticInversionBot\AutomaticInversionBot\bin\Debug\InputSimulator.dll
+c:\users\lukas\documents\visual studio 2015\Projects\AutomaticInversionBot\AutomaticInversionBot\bin\Debug\InputSimulator.pdb
+c:\users\lukas\documents\visual studio 2015\Projects\AutomaticInversionBot\AutomaticInversionBot\bin\Debug\InputSimulator.xml
+C:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\bin\Debug\AutomaticInversionBot.exe.config
+C:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\bin\Debug\AutomaticInversionBot.exe
+C:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\bin\Debug\AutomaticInversionBot.pdb
+C:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\bin\Debug\InputSimulator.pdb
+C:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\bin\Debug\InputSimulator.xml
+C:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.csprojResolveAssemblyReference.cache
+C:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.Form1.resources
+C:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.Properties.Resources.resources
+C:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.csproj.GenerateResource.Cache
+C:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.exe
+C:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.pdb
+E:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\bin\Debug\AutomaticInversionBot.exe.config
+E:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.exe
+E:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.pdb
+C:\Diplomarbeit_Geoelektrik\Programme\AutomaticInversionBot\AutomaticInversionBot\obj\Debug\AutomaticInversionBot.csproj.CoreCompileInputs.cache

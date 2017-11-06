@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script type="text/javascript">
+    </script>
+    <style type="text/css">
+        body {
+            font - family: Arial;
+        }
+
+		#curLineSpan {
+			display: none;
+		}
+
+        #info {
+            height: 35px;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: yellowgreen;
+            color: darkgreen;
+            border-bottom: 1px solid darkgreen;
+            display: block;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 32;
+            padding: 5px;
+        }
+
+        #button {
+            position: absolute !important;
+            top: 5px;
+            right: 5px;
+        }
+
+		#time {
+			position: absolute !important;
+			color: darkgreen;
+			right: 45px;
+			top: 10px;
+		}
+
+        .stop {
+            width: 34px;
+            height: 34px;
+            background-color: darkgreen;
+        }
+
+            .stop:hover {
+                background-color: #007c00;
+            }
+
+        .start {
+            width: 0;
+            height: 0;
+            border-top: 20px solid transparent;
+            border-bottom: 18px solid transparent;
+            border-left: 28px solid darkgreen;
+        }
+
+            .start:hover {
+                border-left: 28px solid #007c00;
+            }
+
+        #console {
+            display: block;
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 35px;
+            height: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 20px 5px 5px 5px;
+            overflow-y: scroll;
+            background-color: lightsteelblue;
+            color: steelblue;
+        }
+
+        ::-webkit-scrollbar {
+            display: none;
+        }
+
+        .entry {
+            margin: 1px;
+        }
+    </style>
+</head>
+<body>
+	<span id="curLineSpan">0</span>
+    <div id="info">
+        <p id="dataset" class="entry"></p>
+        <p id="crashes" class="entry"></p>
+		<p id="time"></p>
+        <div id="button"></div>
+    </div>
+    <div id="console">
+    </div>
+</body>
+</html>
